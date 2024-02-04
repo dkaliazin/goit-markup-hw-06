@@ -1059,11 +1059,11 @@ p {
   }
   /*section header*/
   .logo {
-    margin-right: 120px;
+    margin-right: 76px;
   }
   .nav-list {
     display: flex;
-    margin-right: 332px;
+    margin-right: 320px;
   }
   .header-address-list {
     flex-direction: row;
